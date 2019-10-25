@@ -53,6 +53,10 @@
 	label = "r6220:green:wifi";
 };
 
+&bch {
+	status = "okay";
+};
+
 &nand {
 	status = "okay";
 
